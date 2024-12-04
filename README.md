@@ -26,3 +26,11 @@ To run this project locally:
    ```bash
    git clone https://github.com/Emmanuel-Chukwuma/nfl-analytics.git
    cd nfl-analytics
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+
+3. Launch the Jupyter Notebook:
+   ```bash
+   jupyter notebook nfl_analytics.ipynb
+
