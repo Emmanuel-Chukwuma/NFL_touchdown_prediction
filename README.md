@@ -16,7 +16,6 @@ This project provides an in-depth analysis of NFL data, offering valuable insigh
 
 - **Jupyter Notebook**
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Data Sources**: NFL game and player data (provide details if applicable)
 
 ## Installation
 
